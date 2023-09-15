@@ -14,3 +14,14 @@ From this website I can find many types of regex, through which I can understand
 3. [Git Ready](https://gitready.com/)<br>
 Very good for beginners like me. Contains many tips and links that have been arranged in such a way as to make it easier for users who have been categorized (beginner, intermediate and advanced) as well as available resources about Git
 <br>
+W02
+
+1. [PubKey and Private Key](https://sectigostore.com/blog/public-key-vs-private-key-how-do-they-work/)<br>
+At first I didn't know anything about pubkey, but thanks to this site, it explains a lot of things between pubkey and its brother, the private key. contents: encryption and examples eg RSA
+
+2. [Encryption Ws Question](https://us.norton.com/blog/privacy/what-is-encryption#)<br>
+Knowing encryption as a beginner, what is encryption, why is it important, what to encrypt, and where to start
+
+3. [Linux Encryption](https://linuxsecurity.com/features/how-to-encrypt-files-on-linux#:~:text=Our%20Top%20Linux%20File%20Encryption%20Methods%201%20Archive,...%206%207-zip%20...%207%20Tails%20OS%20)<br>
+Encryption in linux. We already use GNU and RSA, here they explain it. Contains encryption methods on linux
+<br>
