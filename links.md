@@ -14,6 +14,7 @@ From this website I can find many types of regex, through which I can understand
 3. [Git Ready](https://gitready.com/)<br>
 Very good for beginners like me. Contains many tips and links that have been arranged in such a way as to make it easier for users who have been categorized (beginner, intermediate and advanced) as well as available resources about Git
 <br>
+
 W02
 
 1. [PubKey and Private Key](https://sectigostore.com/blog/public-key-vs-private-key-how-do-they-work/)<br>
