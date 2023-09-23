@@ -6,8 +6,7 @@ permalink: LINKS/
 W01
 
 1. [Explain Shell](https://explainshell.com/)<br>
-A web that helps us in explaining a bash command. If we are studying and get commands that we don't know, this website really helps us to understand more deeply.
-
+A web that helps us in explaining a bash command. If we are studying and get commands that we don't know, this website really helps us to underst
 2. [Regex Usefull](https://www.regular-expressions.infohttps://www.regular-expressions.info)<br>
 From this website I can find many types of regex, through which I can understand better because it provides applicable examples and explanations that are to the point
 
