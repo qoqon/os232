@@ -26,3 +26,16 @@ Knowing encryption as a beginner, what is encryption, why is it important, what 
 3. [Linux Encryption](https://linuxsecurity.com/features/how-to-encrypt-files-on-linux#:~:text=Our%20Top%20Linux%20File%20Encryption%20Methods%201%20Archive,...%206%207-zip%20...%207%20Tails%20OS%20)<br>
 Encryption in linux. We already use GNU and RSA, here they explain it. Contains encryption methods on linux
 <br>
+
+W03
+
+1. [Shell Scripting Basic](https://www.howtogeek.com/67469/the-beginners-guide-to-shell-scripting-the-basics/)<br>
+This web really explains about the basics of shell scripting. Starting from the definition and simple commands that you really need to know, which are equipped with easy-to-understand explanations
+
+2. [Shell If-Else](https://www.digitalocean.com/community/tutorials/if-else-in-shell-scripts)<br>
+We all know if-else, but maybe some don't know how if-else is in shell scripting. Here we can get it. I saw in last semester's questions that there was this, so it seems important.
+
+3. [Shell Loops](https://www.shellscript.sh/loops.html)<br>
+If the link above discusses if-else, we should also know and understand about for and while iteration in shell scripts. This link provides it.
+
+<br>
