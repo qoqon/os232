@@ -51,3 +51,15 @@ After reading this, maybe you will understand what memory mapping is on Linux. H
 You will know who is serves as the core of an operating system and the interface between software and hardware. Yup, the kernel is in constant use and is a key component of an operating system.
 
 <br>
+
+W05
+
+1. [Linux Memory Management](https://www.golinuxcloud.com/tutorial-linux-memory-management-overview/)<br>
+Linux memory management is a very vast topic and it is not possible to cover all the areas in single article. This article will try to give you an overview on major areas and will help you understand important terminologies related to memory management in Linux.
+
+2. [Page Fault?](https://techterms.com/definition/page_fault)<br>
+Definition of page fault, why page fault occurs and some krisar to fix it.
+
+3. [Physical and Logical Address](https://www.studytonight.com/operating-system/os-logical-and-physical-address-space/)<br>
+This site will give you a simple and comprehensive explanation between physical and logical address. They attached visualization on their way. 
+<br>
