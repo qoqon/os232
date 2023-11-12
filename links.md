@@ -76,3 +76,16 @@ There are many ways to find the total memory on a Linux server. One way is to us
 A shared memory is an extra piece of memory that is attached to some address spaces for their owners to use. … Shared memory is os wiki a feature supported by UNIX System V, including Linux, SunOS and Solaris. One process must explicitly ask for an area, using a key, to be shared by other processes.
 
 <br>
+
+W07
+
+1. [Process vs Thread](https://www.baeldung.com/linux/process-vs-thread)<br>
+In a nutshell, a process is a computer program under execution while a thread is a lightweight process. But we sometimes found ourself confused over the difference between them in the operating system? In this article, you'll find the details of them in the context of Linux here. 
+
+2. [Buffer vs Chache](https://medium.com/geekculture/linux-memory-buffer-vs-cache-44d8a187f310#:~:text=Buffers%20are%20temporary%20storage%20for%20raw%20disk%20blocks%2C,be%20merged%20into%20a%20single%20large%20write%2C%20etc.)<br>
+In a nutshell, Caching is the process of temporarily storing a copy of a given resource so that subsequent requests to the same resource are processed faster while buffering is the process of preloading data into a reserved area of memory called buffer memory. In this article, you will be explained about them.
+
+3. [Multiprocessin in Bash](https://www.howtogeek.com/devops/how-to-use-multi-threaded-processing-in-bash-scripts/)<br>
+Multi-threaded programming has always been of interest to developers to increase application performance and optimize resource usage. This guide will introduce you to Bash multi-threaded coding basics.
+
+<br>
